@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "My new website",
+      "body": "It is no secret baguette sandwiches are one of the best foods out there. The combination of crusty bread with meat, cheese, piles of veggies and the perfect sauce is heaven sent. Here are a few secrets I have learned while attempting to re-create *the best* baguette sandwich sold at a bakery here in town…",
+      "author": "mario",
+      "id": "1"
+    },
+    {
+      "title": "I am getting better at this",
+      "body": "Recently, I have been converted to sparkly water. Not the flavored kind, just pure sparkling water. It is my favorite drink: refreshing and special that feels well deserved at the end of a the day. Today we are making this everyday refreshing drink even more special, by making our own berry, mint, and edible flower ice cubes to drink with it.",
+      "author": "luigi",
+      "id": "2"
+    },
+    {
+      "title": "Another amazing website",
+      "body": "Let us make a pretty spring field of poppies using tissue paper flower art. Such a fun project to do with kids, and perfect for Mother Day. Here is how to get started...",
+      "author": "mario",
+      "id": "3"
+    },
+    {
+      "id": "87fc",
+      "title": "A very interesting blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, do eiusmod tempor pack incididunt ut labore et dolore magna aliqua quised ipsum suspendisse.Lorem ipsum dolor sit amet, consectetur adipiscing elit, do eiusmod tempor pack incididunt ut labore et dolore magna aliqua quised ipsum suspendisse.Lorem ipsum dolor sit amet, consectetur adipiscing elit, do eiusmod tempor pack incididunt ut labore et dolore magna aliqua quised ipsum suspendisse.Lorem ipsum dolor sit amet, consectetur adipiscing elit, do eiusmod tempor pack incididunt ut labore et dolore magna aliqua quised ipsum suspendisse.Lorem ipsum dolor sit amet, consectetur adipiscing elit, do eiusmod tempor pack incididunt ut labore et dolore magna aliqua quised ipsum suspendisse.Lorem ipsum dolor sit amet, consectetur adipiscing elit, do eiusmod tempor pack incididunt ut labore et dolore magna aliqua quised ipsum suspendisse.Lorem ipsum dolor sit amet, consectetur adipiscing elit, do eiusmod tempor pack incididunt ut labore et dolore magna aliqua quised ipsum suspendisse.Lorem ipsum dolor sit amet, consectetur adipiscing elit, do eiusmod tempor pack incididunt ut labore et dolore magna aliqua quised ipsum suspendisse.Lorem ipsum dolor sit amet, consectetur adipiscing elit, do eiusmod tempor pack incididunt ut labore et dolore magna aliqua quised ipsum suspendisse.Lorem ipsum dolor sit amet, consectetur adipiscing elit, do eiusmod tempor pack incididunt ut labore et dolore magna aliqua quised ipsum suspendisse.Lorem ipsum dolor sit amet, consectetur adipiscing elit, do eiusmod tempor pack incididunt ut labore et dolore magna aliqua quised ipsum suspendisse.",
+      "author": "Yoshi"
+    },
+    {
+      "id": "3a07",
+      "title": "Check out these amazing home decors",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque animi omnis quas voluptate aliquam dolore facere, exercitationem, quos nihil iusto.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque animi omnis quas voluptate aliquam dolore facere, exercitationem, quos nihil iusto.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque animi omnis quas voluptate aliquam dolore facere, exercitationem, quos nihil iusto.",
+      "author": "Mario"
+    }
+  ]
+}
